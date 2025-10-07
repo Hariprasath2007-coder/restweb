@@ -37,12 +37,12 @@ administration.html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Home - FRIENDS DABHA</title>
+  <title>Administration - FRIENDS DABHA</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1> FRIENDS DABHA</h1>
+    <h1>Our Administration</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="menu.html">Menu</a>
@@ -50,21 +50,53 @@ administration.html
       <a href="contact.html">Contact Us</a>
     </nav>
   </header>
-  <section class="banner">
-    <img src="hotel4.jpg"Delicious Food Banner">
+
+  <section class="admin-grid">
+    <!-- Repeat for 6 people -->
+    <div class="admin-card">
+      <img src="saudh.jpg" alt="Admin 1">
+      <h3>MOHAMED SAUDH</h3>
+      <p>Manager</p>
+    </div>
+    <div class="admin-card">
+      <img src="mani.jpg" alt="Admin 2">
+      <h3>MANIKANDAN</h3>
+      <p>Head Chef</p>
+    </div>
+    <div class="admin-card">
+      <img src="mohan1.jpg" alt="Admin 3">
+      <h3>MOHAN RAJI</h3>
+      <p>Head Chef</p>
+    </div>
+    <div class="admin-card">
+      <img src="sanjai.jpg" alt="Admin 4">
+      <h3>SANJAI</h3>
+      <p>Assistant Chef</p>
+    </div>
+    <div class="admin-card">
+      <img src="naveen.jpg" alt="Admin 5">
+      <h3>NAVEEN KUMAR</h3>
+      <p>Assistant chef</p>
+    </div>
+    <div class="admin-card">
+      <img src="me2.jpg" alt="Admin 6">
+      <h3>HARI PRASATH</h3>
+      <p>cashier</p>
+    </div>
+    <div class="admin-card">
+      <img src="balaji.jpg" alt="Admin 7">
+      <h3>BALAJI B M</h3>
+      <p>Inventory Manager</p>
+    </div>
+    <div class="admin-card">
+      <img src="vicky.jpg" alt="Admin 8">
+      <h3>VIGNESHWAREN</h3>
+      <p>Customer Service</p>
+    </div>
   </section>
-
-
-
-  <section class="content">
-    <h2>Welcome!</h2>
-    <p>Discover the best food in town, made with passion and fresh ingredients.</p>
-  </section>
-
-  
 
   <footer>
-    <p>&copy; 2025. Designed by Hari Prasath E</p>
+    <p>&copy; 2025. Designed by  Hari Prasath E</p>
   </footer>
 </body>
 </html>
